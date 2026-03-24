@@ -11,3 +11,4 @@
 - Tailwind CSS
 - Figma
 - JavaScript / TypeScript
+![Stats](https://github-readme-stats.vercel.app/api?username=Dilsha Nimeshika&show_icons=true)
